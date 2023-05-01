@@ -44,7 +44,14 @@ Front-end Developer with experience working with Startups with DLT Technologies 
 <p align="left"> <a href="https://www.github.com/mojtaba-shahverdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mojtabashahverdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojtaba-shahverdi&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="mojtaba-shahverdi" align="right">
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mojtaba-shahverdi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mojtaba-shahverdi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<p align="center">
+<a href="https://github.com/mojtaba-shahverdi?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=mojtaba-shahverdi&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="mojtaba-shahverdi github-readme-stats"/></a>
+<a href="https://github.com/mojtaba-shahverdi?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=mojtaba-shahverdi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="mojtaba-shahverdi github-readme-streak-stats"/></a>
+</p>
+
