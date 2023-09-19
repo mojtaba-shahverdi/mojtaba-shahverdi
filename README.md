@@ -44,7 +44,7 @@ Front-end Developer with experience working with Startups with DLT Technologies 
 <p align="left"> <a href="https://www.github.com/mojtaba-shahverdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mojtabashahverdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojtaba-shahverdi&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="mojtaba-shahverdi" align="right">
+<img src="github-readme-stats-two-steel-31.vercel.app/api/top-langs/?username=mojtaba-shahverdi&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="mojtaba-shahverdi" align="right">
 
 <b>My GitHub Stats</b>
 
